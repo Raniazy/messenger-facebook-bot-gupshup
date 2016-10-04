@@ -1,5 +1,9 @@
 # Create your own Facebook Messenger bot online 
 
+<p align="center">
+<img src="https://media.giphy.com/media/NHIecaiSc7YjK/giphy.gif">
+</p>
+
 Facebook launched their Messenger platform to enable bots to converse with users via Facebook Apps and on Facebook Pages. 
 
 You can read the  [documentation](https://developers.facebook.com/docs/messenger-platform/quickstart) the Messenger team prepared.
