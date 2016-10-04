@@ -21,7 +21,7 @@ Let's get started !
 
 Firstly, we should create a facebook page : 
 <p align="center">
-<img src="https://cdn-images-1.medium.com/max/497/1*uqOOpzC6f0Bl1QxVG70IBw.jpeg?raw=true">
+<img src="shot3.jpg">
 </p>
 
 PS : You can skip the steps and save it ;) 
@@ -32,16 +32,20 @@ Build your app on : [https://developers.facebook.com/](https://developers.facebo
 PS : choose the basic setup then "Page for Apps" as a category. 
 
 <p align="center">
-<img src="https://cdn-images-1.medium.com/max/497/1*uqOOpzC6f0Bl1QxVG70IBw.jpeg?raw=true">
+<img src="shot1.jpg">
 </p>
 
 Now that the application is created, you'll have to specify that it's a messenger application : 
 
 <p align="center">
-<img src="https://cdn-images-1.medium.com/max/497/1*uqOOpzC6f0Bl1QxVG70IBw.jpeg?raw=true">
+<img src="shot2.jpg">
 </p>
 
 Next, let's communicate our application to the facebook page : 
+
+<p align="center">
+<img src="shot4.jpg">
+</p>
 
 In this step, your bot token will be generated. PS : DO NOT SHARE
 
@@ -56,19 +60,23 @@ Gupshup is the "Easiest & fastest way to build & deploy your bots on any channel
 <p align="center">
 <img src="https://www.gupshup.io/developer/resources/img/bot-lifecycle.png?raw=true">
 </p>
+The channels : 
 
+<p align="center">
+<img src="shot5.jpg">
+</p>
 
 Authentification is done by Github or Facebook. 
 Create your bot : 
 
 <p align="center">
-<img src="https://www.gupshup.io/developer/resources/img/bot-lifecycle.png?raw=true">
+<img src="shot6.jpg">
 </p>
 
 There are many build options : 
 
 <p align="center">
-<img src="https://www.gupshup.io/developer/resources/img/bot-lifecycle.png?raw=true">
+<img src="shot7.jpg">
 </p>
 
 - Code your bot : Gupshup provides an IDE with a real time emulator to test your changes before deploying (we will use this option in this tutorial)
@@ -79,7 +87,7 @@ Now that you have created your bot, you can easily publish it via gupshup.
 Choose the Facebook Messenger app for publishing : 
 
 <p align="center">
-<img src="https://www.gupshup.io/developer/resources/img/bot-lifecycle.png?raw=true">
+<img src="shot8.jpg">
 </p>
 
 This will lead you to a sort of tutorial. 
@@ -87,19 +95,19 @@ This will lead you to a sort of tutorial.
 we will go back to setup the webhook to the messenger App with the one given by gupshup : 
 
 <p align="center">
-<img src="https://www.gupshup.io/developer/resources/img/bot-lifecycle.png?raw=true">
+<img src="shot9.jpg">
 </p>
 
 copy and past the webhook url and the verify token to the fields in messenger up webhook setup : 
 
 <p align="center">
-<img src="https://www.gupshup.io/developer/resources/img/bot-lifecycle.png?raw=true">
+<img src="shot10.jpg">
 </p>
 
 Subscribe your webhooks to your Facebook page : 
 
 <p align="center">
-<img src="https://www.gupshup.io/developer/resources/img/bot-lifecycle.png?raw=true">
+<img src="shot11.jpg">
 </p>
 
 One thing left ! 
@@ -108,7 +116,7 @@ One thing left !
 It's the last gupshup tutorial section : 
 
 <p align="center">
-<img src="https://www.gupshup.io/developer/resources/img/bot-lifecycle.png?raw=true">
+<img src="shot12.jpg">
 </p>
 
 The “Page ID” can be found in the about section of the page.
@@ -117,18 +125,18 @@ Page Access Token : is the token we generated above.
 If we go back and see the IDE provided by gupshup. I just edited the code by ading the "hi" || "hello". 
 
 <p align="center">
-<img src="https://www.gupshup.io/developer/resources/img/bot-lifecycle.png?raw=true">
+<img src="shot14.jpg">
 </p>
 
 THAT'S IT ! 
 Let's try. 
 
 <p align="center">
-<img src="https://www.gupshup.io/developer/resources/img/bot-lifecycle.png?raw=true">
+<img src="shot13.jpg">
 </p>
 
 <p align="center">
-<img src="https://www.gupshup.io/developer/resources/img/bot-lifecycle.png?raw=true">
+<img src="shot15.jpg">
 </p>
 
 I hope it was helpful. 
